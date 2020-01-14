@@ -2,4 +2,3 @@ hello world
 my name Nikolay
 i'm 30 years old
 i'm rail way worker
-i'm programmer
